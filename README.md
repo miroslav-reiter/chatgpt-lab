@@ -10,6 +10,14 @@ CIEĽ + KONTEXT + VSTUPY + PRAVIDLÁ + FORMÁT + KONTROLA
 
 > Kvalitný výstup nevzniká náhodou. Vzniká z jasného zadania, vhodného kontextu, správneho nastavenia a následnej kontroly.
 
+## 📌 Čo je OpenAI ChatGPT
+
+OpenAI ChatGPT je konverzačný asistent založený na umelej inteligencii. Môžeme ho používať pri brainstormingu, písaní a úprave textov, štúdiu, plánovaní, programovaní, matematike, analýze obrázkov a súborov a pri ďalších pracovných alebo osobných úlohách.
+
+ChatGPT pracuje podľa pokynov, ktoré zadávame v prirodzenom jazyku. V rámci konverzácie používa dostupný kontext a podľa plánu, platformy, regiónu a nastavení môže využívať ďalšie funkcie, napríklad nahrávanie súborov, vyhľadávanie na webe, hlas, tvorbu obrázkov, projekty, vlastné inštrukcie alebo pamäť.
+
+ChatGPT nie je automaticky autoritatívnym zdrojom pravdy. Odpoveď môže byť presvedčivá, ale nepresná, neúplná alebo zastaraná. Dôležité tvrdenia preto overujeme v dôveryhodných a aktuálnych zdrojoch.
+
 ## 📌 Čo sa v kurze naučíme
 
 Po absolvovaní kurzu dokážeme:
@@ -262,3 +270,25 @@ Názvy položiek rozhrania a dostupnosť funkcií sa môžu líšiť podľa plat
 Repozitár vychádza z prezentácie **Praktické používanie AI ChatGPT**. Materiály sú prepracované do formy lektorského scenára, pracovného zošita, laboratórií, promptových šablón, riešení a hodnotiacich kritérií.
 
 Ceny, názvy modelov, limity a konkrétne prvky používateľského rozhrania sa priebežne menia. Preto ich nepovažujeme za stabilnú súčasť metodiky. Pred školením vždy overíme aktuálny stav priamo v používanom účte a v oficiálnej dokumentácii OpenAI.
+
+## 📚 Oficiálne zdroje a dokumentácia ChatGPT
+
+Funkcie, názvy nastavení, limity a dostupnosť sa priebežne menia. Pred školením preto kontrolujeme aktuálnu dokumentáciu OpenAI.
+
+- [Čo je ChatGPT: FAQ](https://help.openai.com/en/articles/12677804-what-is-chatgpt-faq)
+- [Vlastné pokyny ChatGPT](https://help.openai.com/sk-sk/articles/8096356-custom-instructions-for-chatgpt)
+- [Časté otázky o pamäti](https://help.openai.com/sk-sk/articles/8590148)
+- [Temporary Chat FAQ](https://help.openai.com/en/articles/8914046-temporary-chat-faq)
+- [Data Controls FAQ](https://help.openai.com/en/articles/7730893-data-controls-faq)
+- [ChatGPT Release Notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+- [OpenAI Help Center](https://help.openai.com/)
+
+## 📖 Knihy o ChatGPT
+
+Nasledujúce knihy sú nezávislé publikácie. Nejde o oficiálne knihy spoločnosti OpenAI a konkrétne opisy rozhrania alebo modelov môžu časom zastarať.
+
+| Kniha | Autor | Vydavateľstvo a rok | ISBN | Zameranie |
+|---|---|---|---|---|
+| [ChatGPT For Dummies, 2nd Edition](https://books.google.com/books/about/ChatGPT_For_Dummies.html?id=9sFIEQAAQBAJ) | Pam Baker | Wiley, 2025 | `9781394314454` | praktické používanie ChatGPT, prompty, text, médiá a pracovné úlohy |
+| [Prompt Engineering for Generative AI](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/) | James Phoenix, Mike Taylor | O’Reilly Media, 2024 | `9781098153427` | systematické navrhovanie promptov, hodnotenie výstupov a automatizácia |
+| [Co-Intelligence: Living and Working with AI](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/) | Ethan Mollick | Portfolio, 2024 | `9780593716717` | praktická spolupráca človeka s generatívnou AI v práci a vzdelávaní |
