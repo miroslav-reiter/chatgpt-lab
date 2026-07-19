@@ -56,7 +56,7 @@ CIEĽ + KONTEXT + VSTUPY + PRAVIDLÁ + FORMÁT + KONTROLA
 | Otvorenie novej karty | Ctrl + T | Cmd + T |
 | Prepnutie medzi kartami | Ctrl + Tab | Cmd + Option + šípka |
 | Zavretie karty | Ctrl + W | Cmd + W |
-| Zobrazenie histórie prehliadača | Ctrl + H | Cmd + Y / Cmd + Shift + H podľa prehliadača |
+| História prehliadača | Ctrl + H | Cmd + Y / Cmd + Shift + H podľa prehliadača |
 | Uloženie stránky | Ctrl + S | Cmd + S |
 
 Poznámka: Dostupnosť špecifických skratiek ChatGPT sa môže meniť podľa aplikácie, platformy, prehliadača a verzie účtu.
@@ -70,12 +70,19 @@ Poznámka: Dostupnosť špecifických skratiek ChatGPT sa môže meniť podľa a
 
 ## 📚 Oficiálne zdroje a dokumentácia ChatGPT
 
-- https://help.openai.com/
-- https://help.openai.com/en/articles/12677804-what-is-chatgpt-faq
-- https://help.openai.com/sk-sk/articles/8096356-custom-instructions-for-chatgpt
-- https://help.openai.com/sk-sk/articles/8590148
+Funkcie ChatGPT sa priebežne menia. Pred školením preto kontrolujeme aktuálnu dokumentáciu OpenAI.
+
+- OpenAI Help Center: https://help.openai.com/
+- What is ChatGPT FAQ: https://help.openai.com/en/articles/12677804-what-is-chatgpt-faq
+- Custom Instructions for ChatGPT: https://help.openai.com/sk-sk/articles/8096356-custom-instructions-for-chatgpt
+- Memory FAQ: https://help.openai.com/sk-sk/articles/8590148
+- Temporary Chat FAQ: https://help.openai.com/en/articles/8914046-temporary-chat-faq
+- Data Controls FAQ: https://help.openai.com/en/articles/7730893-data-controls-faq
+- ChatGPT Release Notes: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 
 ## 📖 Knihy o ChatGPT
+
+Nasledujúce knihy sú nezávislé publikácie. Nejde o oficiálne knihy spoločnosti OpenAI.
 
 | Kniha | Autor | Zameranie |
 |---|---|---|
