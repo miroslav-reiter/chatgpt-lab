@@ -82,10 +82,18 @@ Funkcie ChatGPT sa priebežne menia. Pred školením preto kontrolujeme aktuáln
 
 ## 📖 Knihy o ChatGPT
 
-Nasledujúce knihy sú nezávislé publikácie. Nejde o oficiálne knihy spoločnosti OpenAI.
+Nasledujúce knihy sú nezávislé publikácie. Nejde o oficiálne knihy spoločnosti OpenAI. Pri starších tituloch môžu byť názvy modelov, rozhranie, ceny a dostupnosť funkcií už neaktuálne, preto ich kombinujeme s aktuálnou dokumentáciou OpenAI.
 
-| Kniha | Autor | Zameranie |
-|---|---|---|
-| ChatGPT For Dummies | Pam Baker | Praktické používanie ChatGPT |
-| Prompt Engineering for Generative AI | James Phoenix, Mike Taylor | Návrh kvalitných promptov |
-| Co-Intelligence: Living and Working with AI | Ethan Mollick | Spolupráca človeka a AI |
+| Kniha | Autor | Vydavateľstvo a rok | ISBN | Zameranie |
+|---|---|---|---|---|
+| [Practical Generative AI with ChatGPT, 2nd Edition](https://www.packtpub.com/en-us/product/practical-generative-ai-with-chatgpt-second-edition-9781836647850) | Valentina Alto | Packt, 2025 | `9781836647850` | prompt engineering, produktivita, vývoj, marketing, výskum, multimodalita, GPTs a OpenAI API |
+| [ChatGPT For Dummies, 2nd Edition](https://www.oreilly.com/library/view/chatgpt-for-dummies/9781394314454/) | Pam Baker | Wiley / For Dummies, 2025 | `9781394314454` | základy ChatGPT, výber modelov, pokročilé promptovanie, multimédiá, overovanie a zodpovedné používanie |
+| [The ChatGPT Revolution, 2nd Edition](https://www.oreilly.com/library/view/the-chatgpt-revolution/9781394283125/) | Donna McGeorge | Wiley, 2024 | `9781394283125` | praktické využitie ChatGPT v práci, domácnosti, produktivite a tvorbe promptov |
+| [ChatGPT for Beginners: Features, Foundations, and Applications](https://link.springer.com/book/10.1007/978-1-4842-9804-6) | Eric Sarrion | Apress, 2023 | `9781484298046` | úvod do ChatGPT, princípy fungovania, praktické textové úlohy, komunikácia a limity |
+| [Making ChatGPT Work for You](https://link.springer.com/book/10.1007/979-8-8688-1445-7) | Lydia Evelyn | Apress, 2025 | `9798868814440` | praktické používanie ChatGPT pre netechnických používateľov, dokumenty, obrázky, DALL-E, Sora a produktivita |
+| [Developing Apps with GPT-4 and ChatGPT, 2nd Edition](https://www.oreilly.com/library/view/developing-apps-with/9781098168094/) | Olivier Caelen, Marie-Alice Blete | O'Reilly Media, 2024 | `9781098168094` | vývoj aplikácií v Pythone, OpenAI API, prompt engineering, RAG, fine-tuning, GPTs a asistenti |
+| [Coding with ChatGPT and Other LLMs](https://www.packtpub.com/en-us/product/coding-with-chatgpt-and-other-llms-9781805125051) | Vincent Austin Hall | Packt, 2024 | `9781805125051` | generovanie, refaktoring, ladenie, optimalizácia a testovanie kódu pomocou ChatGPT a ďalších LLM |
+| [Prompt Engineering for Generative AI](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/) | James Phoenix, Mike Taylor | O'Reilly Media, 2024 | `9781098153427` | systematické navrhovanie promptov pre textové a obrazové modely, hodnotenie a automatizácia |
+| [Prompt Engineering for LLMs](https://www.oreilly.com/library/view/prompt-engineering-for/9781098156145/) | John Berryman, Albert Ziegler | O'Reilly Media, 2024 | `9781098156145` | architektúra LLM, kontext, few-shot prompting, chain-of-thought, RAG, workflow a evaluácia |
+| [What Are ChatGPT and Its Friends?](https://www.oreilly.com/library/view/what-are-chatgpt/9781098152604/) | Mike Loukides | O'Reilly Media, 2023 | `9781098152604` | stručný odborný prehľad fungovania, možností, nákladov, rizík a limitov ChatGPT |
+| [Co-Intelligence: Living and Working with AI](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/) | Ethan Mollick | Portfolio, 2024 | `9780593716717` | praktická spolupráca človeka s generatívnou AI v práci, vzdelávaní a rozhodovaní |
