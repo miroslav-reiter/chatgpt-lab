@@ -87,7 +87,7 @@ Kontrola:
 Nepoužívaj právne tvrdenia, ktoré nevyplývajú zo zadania.
 ```
 
-## 🎯 Praktické oblasti použitia
+## 🎯 Praktické oblasti použitia ChatGPT
 
 ### Copywriting a obsah
 
@@ -220,7 +220,7 @@ Výstup považujeme za kvalitný, keď:
 - upozorňuje na relevantné riziká,
 - umožňuje praktické použitie bez rozsiahleho prepisovania.
 
-## ⚠️ Časté chyby
+## ⚠️ Časté chyby ChatGPT
 
 ### Príliš všeobecné zadanie
 
@@ -246,7 +246,7 @@ Nevkladáme heslá, prístupové tokeny, osobné čísla, interné tajomstvá an
 
 Plynulý a profesionálne znejúci text nie je automaticky správny. Pri právnych, finančných, zdravotných, technických a časovo citlivých informáciách vykonáme kontrolu zdrojov.
 
-## 🔒 Bezpečnosť a ochrana údajov
+## 🔒 Bezpečnosť a ochrana údajov ChatGPT
 
 Pri práci s ChatGPT:
 
@@ -258,18 +258,13 @@ Pri práci s ChatGPT:
 - pred zdieľaním výstupu odstránime citlivý kontext,
 - dôležité tvrdenia overujeme v autoritatívnom zdroji.
 
-## ⌨️ Praktické ovládanie
+## ⌨️ Praktické ovládanie ChatGPT
 
 - **Enter** odošle správu a vyvolá odpoveď.
 - **Shift + Enter** vloží nový riadok bez odoslania.
 
 Názvy položiek rozhrania a dostupnosť funkcií sa môžu líšiť podľa platformy, jazyka, účtu a aktuálnej verzie ChatGPT.
 
-## 📚 Zdroj kurzu
-
-Repozitár vychádza z prezentácie **Praktické používanie AI ChatGPT**. Materiály sú prepracované do formy lektorského scenára, pracovného zošita, laboratórií, promptových šablón, riešení a hodnotiacich kritérií.
-
-Ceny, názvy modelov, limity a konkrétne prvky používateľského rozhrania sa priebežne menia. Preto ich nepovažujeme za stabilnú súčasť metodiky. Pred školením vždy overíme aktuálny stav priamo v používanom účte a v oficiálnej dokumentácii OpenAI.
 
 ## 📚 Oficiálne zdroje a dokumentácia ChatGPT
 
