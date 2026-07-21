@@ -59,7 +59,7 @@ EN: GOAL) + CONTEXT + OUTPUTS + RULES + FORMAT + CHECK
 | História prehliadača | Ctrl + H | Cmd + Y / Cmd + Shift + H podľa prehliadača |
 | Uloženie stránky | Ctrl + S | Cmd + S |
 
-Poznámka: Dostupnosť špecifických skratiek ChatGPT sa môže meniť podľa aplikácie, platformy, prehliadača a verzie účtu.
+**Poznámka:** Dostupnosť špecifických skratiek ChatGPT sa môže meniť podľa aplikácie, platformy, prehliadača a verzie účtu.
 
 ## 🔒 Bezpečnosť a ochrana údajov ChatGPT
 
@@ -67,8 +67,10 @@ Poznámka: Dostupnosť špecifických skratiek ChatGPT sa môže meniť podľa a
 - anonymizujeme osobné údaje
 - kontrolujeme dôležité výstupy
 - pri citlivých úlohách používame vhodné nastavenia súkromia
-- kontrolujeme si používané relácie (sessions)
-- používame 2FA
+- kontrolujeme si [používané relácie (sessions)](https://help.openai.com/en/articles/20001257-managing-active-sessions-in-chatgpt)
+- používame [viacstupňové overenie (MFA)](https://help.openai.com/sk-sk/articles/7967234-enabling-or-disabling-multi-factor-authentication-mfa)
+- kontrola režimu vývojára a [Content Security Policy (CSP) režim](https://developers.openai.com/apps-sdk/build/mcp-server#content-security-policy-csp)
+- zváženie používanie [uzamknutého režimu (lockdown Mode)](https://help.openai.com/en/articles/20001061-lockdown-mode)
 
 ## 📚 Oficiálne zdroje a dokumentácia ChatGPT
 
