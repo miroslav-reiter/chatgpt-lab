@@ -1,6 +1,7 @@
 # 🧪 Cvičenie 01: Praktické používanie AI ChatGPT
 
 Toto cvičenie je zamerané na prípravu kvalitných promptov, ktoré môžeme okamžite skopírovať, doplniť o vlastné údaje a použiť v ChatGPT.  
+
 Prompty používajú placeholdery v hranatých zátvorkách, napríklad `[téma]`, `[produkt]`, `[cieľová skupina]` alebo `[dokument]`. Pred odoslaním ich nahradíme konkrétnymi údajmi.
 
 ---
