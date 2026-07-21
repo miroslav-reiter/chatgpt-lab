@@ -1,11 +1,10 @@
-# 🤖 Praktické používanie AI ChatGPT
+# 🤖 Praktické Používanie AI ChatGPT
 
-Praktický repozitár pre kurz **Praktické používanie AI ChatGPT**. Materiály sú určené pre začiatočníkov a mierne pokročilých používateľov, ktorí chcú používať ChatGPT systematicky, opakovateľne a bezpečne.
+Praktický repozitár pre kurz **Praktické používanie AI ChatGPT**. Materiály sú určené pre mierne pokročilých používateľov, ktorí chcú používať ChatGPT systematicky, opakovateľne a bezpečne.
 
 ## 📌 Čo je OpenAI ChatGPT
 
 OpenAI ChatGPT je konverzačný AI asistent založený na veľkých jazykových modeloch. Používa sa na tvorbu a úpravu textov, analýzu dokumentov, štúdium, programovanie, plánovanie, brainstorming a ďalšie pracovné úlohy.
-
 ChatGPT pracuje na základe zadaných pokynov. Kvalita výsledku závisí od kvality zadania, kontextu, pravidiel a požadovaného formátu.
 
 ## 📌 Základný pracovný postup
