@@ -63,10 +63,12 @@ Poznámka: Dostupnosť špecifických skratiek ChatGPT sa môže meniť podľa a
 
 ## 🔒 Bezpečnosť a ochrana údajov ChatGPT
 
-- nevkladáme heslá ani prihlasovacie údaje,
-- anonymizujeme osobné údaje,
-- kontrolujeme dôležité výstupy,
-- pri citlivých úlohách používame vhodné nastavenia súkromia.
+- nevkladáme heslá ani prihlasovacie údaje ani API kĽúče
+- anonymizujeme osobné údaje
+- kontrolujeme dôležité výstupy
+- pri citlivých úlohách používame vhodné nastavenia súkromia
+- kontrolujeme si používané relácie (sessions)
+- používame 2FA
 
 ## 📚 Oficiálne zdroje a dokumentácia ChatGPT
 
