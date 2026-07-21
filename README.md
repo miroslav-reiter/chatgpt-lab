@@ -7,7 +7,7 @@ Praktický repozitár pre kurz **Praktické používanie AI ChatGPT**. Materiál
 OpenAI ChatGPT je konverzačný AI asistent založený na veľkých jazykových modeloch. Používa sa na tvorbu a úpravu textov, analýzu dokumentov, štúdium, programovanie, plánovanie, brainstorming a ďalšie pracovné úlohy.
 ChatGPT pracuje na základe zadaných pokynov. Kvalita výsledku závisí od kvality zadania, kontextu, pravidiel a požadovaného formátu.
 
-## 📌 Základný pracovný postup
+## 🔀 Základný pracovný postup
 
 ```text
 CIEĽ + KONTEXT + VSTUPY + PRAVIDLÁ + FORMÁT + KONTROLA
