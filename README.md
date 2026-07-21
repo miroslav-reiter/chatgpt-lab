@@ -10,7 +10,8 @@ ChatGPT pracuje na základe zadaných pokynov. Kvalita výsledku závisí od kva
 ## 🔀 Základný pracovný postup
 
 ```text
-CIEĽ (GOAL) + KONTEXT (CONTEXT) + VSTUPY (OUTPUTS) + PRAVIDLÁ (RULES) + FORMÁT (FORMAT) + KONTROLA (CHECK)
+SK: CIEĽ + KONTEXT + VSTUPY + PRAVIDLÁ + FORMÁT + KONTROLA 
+EN: GOAL) + CONTEXT + OUTPUTS + RULES + FORMAT + CHECK
 ```
 
 ## 🧩 Štyri vrstvy prispôsobenia ChatGPT
