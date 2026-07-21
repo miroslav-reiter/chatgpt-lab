@@ -63,14 +63,14 @@ EN: GOAL) + CONTEXT + OUTPUTS + RULES + FORMAT + CHECK
 
 ## 🔒 Bezpečnosť a ochrana údajov ChatGPT
 
-- nevkladáme heslá, prihlasovacie údaje, API kľúče
-- anonymizujeme osobné údaje
-- kontrolujeme dôležité výstupy
-- pri citlivých úlohách používame vhodné nastavenia súkromia
-- kontrolujeme si [používané relácie (sessions)](https://help.openai.com/en/articles/20001257-managing-active-sessions-in-chatgpt)
-- používame [viacstupňové overenie (MFA)](https://help.openai.com/sk-sk/articles/7967234-enabling-or-disabling-multi-factor-authentication-mfa)
-- kontrola režimu vývojára a [Content Security Policy (CSP) režim](https://developers.openai.com/apps-sdk/build/mcp-server#content-security-policy-csp)
-- zváženie používanie [uzamknutého režimu (lockdown Mode)](https://help.openai.com/en/articles/20001061-lockdown-mode)
+1. nevkladáme heslá, prihlasovacie údaje, API kľúče
+1. anonymizujeme osobné údaje
+1. kontrolujeme dôležité výstupy
+1. pri citlivých úlohách používame vhodné nastavenia súkromia
+1. kontrolujeme si [používané relácie (sessions)](https://help.openai.com/en/articles/20001257-managing-active-sessions-in-chatgpt)
+1. používame [viacstupňové overenie (MFA)](https://help.openai.com/sk-sk/articles/7967234-enabling-or-disabling-multi-factor-authentication-mfa)
+1. kontrola režimu vývojára a [Content Security Policy (CSP) režim](https://developers.openai.com/apps-sdk/build/mcp-server#content-security-policy-csp)
+1. zváženie používanie [uzamknutého režimu (lockdown Mode)](https://help.openai.com/en/articles/20001061-lockdown-mode)
 
 ## 📚 Oficiálne zdroje a dokumentácia ChatGPT
 
