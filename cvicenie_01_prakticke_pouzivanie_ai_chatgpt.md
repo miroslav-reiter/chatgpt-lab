@@ -10,7 +10,7 @@ Prompty používajú placeholdery v hranatých zátvorkách, napríklad `[téma]
 
 Po absolvovaní cvičenia budeme vedieť:
 
-- pripraviť prompt s jasným cieľom, kontextom, pravidlami a formátom,
+- pripraviť prompty s jasným cieľom, kontextom, pravidlami a formátom,
 - používať placeholdery na opakované použitie promptov,
 - spracovať PDF dokumenty a dlhé texty,
 - vytvárať obsah, e-maily, plány a pracovné podklady,
@@ -19,6 +19,84 @@ Po absolvovaní cvičenia budeme vedieť:
 - kontrolovať kvalitu a presnosť výstupu.
 
 ---
+
+## 🖥️ Používateľské rozhranie ChatGPT
+
+Používateľské rozhranie ChatGPT pozostáva z viacerých častí, ktoré používateľ využíva pri tvorbe promptov, práci s modelmi, správou projektov a organizáciou konverzácií.
+<img width="1280" height="720" alt="openai-chatgpt-ui-user-interface" src="https://github.com/user-attachments/assets/d53acb66-0fda-4515-beaf-cc91e06a15ec" />
+
+### 🆕 Nový chat (New chat)
+Vytvorenie novej konverzácie bez predchádzajúceho kontextu.
+
+Použitie:
+- začatie novej témy,
+- oddelenie pracovných úloh,
+- vytvorenie čistého kontextu.
+
+### 🔎 Vyhľadávanie chatov
+Slúži na rýchle vyhľadanie starších konverzácií podľa názvu alebo obsahu.
+
+Použitie:
+- návrat k rozpracovaným témam,
+- vyhľadanie predchádzajúcich riešení.
+
+### 🖼️ Obrázky
+Funkcia na prácu s obrázkami:
+- generovanie obrázkov,
+- analýza obrázkov,
+- úprava vizuálneho obsahu.
+
+### 🧩 Aplikácie
+Rozšírenia a prepojenia, ktoré pridávajú ďalšie možnosti práce s ChatGPT.
+
+### 🔍 Podrobné vyhľadávanie
+Používa sa pri úlohách vyžadujúcich získanie a spracovanie informácií z externých zdrojov.
+
+### 💻 Codex
+Nástroj určený na prácu s programovaním:
+- analýza kódu,
+- generovanie kódu,
+- úprava programov.
+
+### 🤖 Výber modelu (Model selector)
+Prepínač dostupných modelov ChatGPT podľa typu úlohy.
+
+Použitie:
+- rýchle odpovede,
+- komplexné analýzy,
+- náročnejšie odborné úlohy.
+
+### 💬 Vstupné pole promptu (Prompt input box)
+Hlavné miesto na zadávanie požiadaviek.
+
+Kvalitný prompt obsahuje:
+- cieľ,
+- kontext,
+- vstupy,
+- pravidlá,
+- formát výstupu.
+
+### ⏱️ Dočasný chat (Temporary chat)
+Režim pre jednorazové konverzácie.
+
+Charakteristika:
+- nepoužíva pamäť,
+- nevytvára dlhodobý kontext,
+- vhodný pri citlivých témach.
+
+### 📁 Projekty (Projects)
+Slúžia na organizáciu dlhodobých pracovných tém.
+
+Obsahujú:
+- konverzácie,
+- súbory,
+- pracovný kontext.
+
+### 🏢 Pracovný priestor (Workspace / Organization)
+Firemné prostredie na tímové používanie ChatGPT.
+
+### 📤 Export a doplnky
+Nástroje na exportovanie obsahu a rozšírenie možností ChatGPT.
 
 ## 1. Základná štruktúra kvalitného promptu
 
