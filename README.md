@@ -11,7 +11,7 @@ ChatGPT pracuje na základe zadaných pokynov. Kvalita výsledku závisí od kva
 
 ```text
 SK: CIEĽ + KONTEXT + VSTUPY + PRAVIDLÁ + FORMÁT + KONTROLA 
-EN: GOAL) + CONTEXT + OUTPUTS + RULES + FORMAT + CHECK
+EN: GOAL + CONTEXT + OUTPUTS + RULES + FORMAT + CHECK
 ```
 
 ## 🧩 Štyri vrstvy prispôsobenia ChatGPT
@@ -19,7 +19,7 @@ EN: GOAL) + CONTEXT + OUTPUTS + RULES + FORMAT + CHECK
 | Vrstva | Účel |
 |---|---|
 | Prompt | Jednorazová konkrétna úloha |
-| Vlastné inštrukcie | Trvalé pravidlá práce |
+| Vlastné pokyny/inštrukcie | Trvalé pravidlá práce |
 | Osobnosť a štýl | Spôsob komunikácie |
 | Pamäť | Personalizácia naprieč konverzáciami |
 
@@ -63,14 +63,16 @@ EN: GOAL) + CONTEXT + OUTPUTS + RULES + FORMAT + CHECK
 
 ## 🔒 Bezpečnosť a ochrana údajov ChatGPT
 
-1. nevkladáme heslá, prihlasovacie údaje, API kľúče
-1. anonymizujeme osobné údaje
-1. kontrolujeme dôležité výstupy
-1. pri citlivých úlohách používame vhodné nastavenia súkromia
-1. kontrolujeme si [používané relácie (sessions)](https://help.openai.com/en/articles/20001257-managing-active-sessions-in-chatgpt)
-1. používame [viacstupňové overenie (MFA)](https://help.openai.com/sk-sk/articles/7967234-enabling-or-disabling-multi-factor-authentication-mfa)
-1. kontrola režimu vývojára a [Content Security Policy (CSP) režim](https://developers.openai.com/apps-sdk/build/mcp-server#content-security-policy-csp)
-1. zváženie používanie [uzamknutého režimu (lockdown Mode)](https://help.openai.com/en/articles/20001061-lockdown-mode)
+1. Nevkladáme heslá, prihlasovacie údaje, API kľúče
+1. Je vypnuté zlepšovanie modelu pre všetkých (Profil > Ovládacie prvky údajov/Controls)
+1. Anonymizujeme osobné údaje
+1. Kontrolujeme dôležité výstupy
+1. Pri citlivých úlohách používame vhodné nastavenia súkromia
+1. Kontrolujeme si [používané relácie (sessions)](https://help.openai.com/en/articles/20001257-managing-active-sessions-in-chatgpt)
+1. Používame [viacstupňové overenie (MFA)](https://help.openai.com/sk-sk/articles/7967234-enabling-or-disabling-multi-factor-authentication-mfa)
+1. Kontroluejem režimu vývojára a [Content Security Policy (CSP) režim](https://developers.openai.com/apps-sdk/build/mcp-server#content-security-policy-csp)
+1. Zvážime používanie [uzamknutého režimu (lockdown Mode)](https://help.openai.com/en/articles/20001061-lockdown-mode)
+1. Priebežne kontroluje používané/nepoužívané nainštalované doplnky
 
 ## 📚 Oficiálne zdroje a dokumentácia ChatGPT
 
