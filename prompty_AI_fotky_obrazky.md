@@ -1,6 +1,6 @@
 # 🤖 Prompty pre AI fotky a obrázky
 
-Táto zbierka obsahuje prompty z dokumentu **Prompty AI.docx**, upravené do prehľadného Markdown formátu. Každý prompt obsahuje anglickú aj slovenskú verziu v samostatnom kódovom bloku, aby sa dal jednoducho kopírovať do ChatGPT, DALL-E, Midjourney, Stable Diffusion, Flux, Gemini alebo iného nástroja na generovanie a úpravu obrázkov.
+Táto zbierka obsahuje prompty pre učenie sa a trénovanie AI. Každý prompt obsahuje anglickú aj slovenskú verziu v samostatnom kódovom bloku, aby sa dal jednoducho kopírovať do ChatGPT, DALL-E, Midjourney, Stable Diffusion, Flux, Gemini alebo iného nástroja na generovanie a úpravu obrázkov.
 
 > Poznámka: Zjavné zalomenia riadkov a technické artefakty vzniknuté pri extrakcii dokumentu boli typograficky normalizované. Význam promptov nebol menený. Identické duplicity sú uvedené iba raz.
 
