@@ -1,6 +1,6 @@
 # 🤖 Prompty pre AI obrázky ľudí, produktov a miest
 
-Táto zbierka obsahuje praktické prompty na generovanie fotorealistických **osôb, produktov a miest bez použitia referenčných fotografií**. Každý prompt obsahuje anglickú aj slovenskú verziu v samostatnom kódovom bloku, aby sa dal jednoducho kopírovať do ChatGPT, DALL-E, Midjourney, Stable Diffusion, Flux, Gemini alebo iného nástroja na generovanie obrázkov.
+Táto zbierka obsahuje praktické prompty na generovanie fotorealistických **osôb, produktov a miest bez použitia referenčných fotografií**. Každý prompt obsahuje anglickú aj slovenskú verziu v samostatnom kódovom bloku, aby sa dal jednoducho kopírovať do ChatGPT, DALL-E, Midjourney, Stable Diffusion, Flux, Gemini/Gemini Notebook alebo iného nástroja na generovanie obrázkov.
 
 > Poznámka: Prompty sú navrhnuté ako praktické východiskové šablóny. Konkrétne parametre, napríklad pomer strán, štýl, rozlíšenie, objektív alebo úroveň detailov, môžeme upraviť podľa použitého AI nástroja a požadovaného výsledku.
 
